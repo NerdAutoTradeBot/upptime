@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nerdbot.xyz.ico",
     "slug": "nerd-bot",
     "status": "up",
-    "uptime": "96.79%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.79%",
-    "time": 2849,
-    "timeDay": 2849,
-    "timeWeek": 2849,
-    "timeMonth": 2849,
-    "timeYear": 2849,
+    "uptime": "98.83%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
+    "time": 2614,
+    "timeDay": 2614,
+    "timeWeek": 2614,
+    "timeMonth": 2614,
+    "timeYear": 2614,
     "dailyMinutesDown": {
-      "2023-11-12": 22
+      "2023-11-12": 15
     }
   }
 ]
