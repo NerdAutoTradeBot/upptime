@@ -4,17 +4,17 @@
     "url": "https://nerdbot.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/nerdbot.xyz.ico",
     "slug": "nerd-bot",
-    "status": "up",
-    "uptime": "96.28%",
+    "status": "down",
+    "uptime": "96.37%",
     "uptimeDay": "96.23%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "96.28%",
-    "time": 3751,
-    "timeDay": 4230,
-    "timeWeek": 3751,
-    "timeMonth": 3751,
-    "timeYear": 3751,
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "96.37%",
+    "time": 4020,
+    "timeDay": 4544,
+    "timeWeek": 4020,
+    "timeMonth": 4020,
+    "timeYear": 4020,
     "dailyMinutesDown": {
       "2023-11-13": 54,
       "2023-11-12": 15
@@ -26,18 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nerd-info-bot.nerdbot.xyz.ico",
     "slug": "nerd-info-bot",
     "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6841,
     "timeDay": 6841,
     "timeWeek": 6841,
     "timeMonth": 6841,
     "timeYear": 6841,
-    "dailyMinutesDown": {
-      "2023-11-13": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
