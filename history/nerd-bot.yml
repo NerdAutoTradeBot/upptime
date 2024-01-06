@@ -1,7 +1,7 @@
 url: https://nerdbot.xyz/health
-status: down
-code: 502
-responseTime: 99
-lastUpdated: 2024-01-06T18:23:00.852Z
+status: up
+code: 200
+responseTime: 330
+lastUpdated: 2024-01-06T18:30:36.231Z
 startTime: 2023-11-12T03:42:45.222Z
 generator: Upptime <https://github.com/upptime/upptime>
