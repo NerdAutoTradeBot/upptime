@@ -51,17 +51,19 @@
     "url": "https://nerd-info-bot.nerdbot.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/nerd-info-bot.nerdbot.xyz.ico",
     "slug": "nerd-info-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 244,
-    "timeWeek": 367,
-    "timeMonth": 1196,
-    "timeYear": 604,
-    "dailyMinutesDown": {}
+    "time": 657,
+    "timeDay": 5311,
+    "timeWeek": 1618,
+    "timeMonth": 1474,
+    "timeYear": 657,
+    "dailyMinutesDown": {
+      "2024-05-07": 0
+    }
   }
 ]
