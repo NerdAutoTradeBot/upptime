@@ -6,17 +6,16 @@
     "slug": "nerd-bot",
     "status": "up",
     "uptime": "95.88%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.47%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "94.63%",
     "time": 579,
-    "timeDay": 368,
-    "timeWeek": 465,
+    "timeDay": 329,
+    "timeWeek": 467,
     "timeMonth": 489,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-03-16": 7,
       "2025-03-14": 65,
       "2025-03-11": 24,
       "2025-03-10": 57,
@@ -74,8 +73,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 648,
       "2024-05-14": 177,
-      "2024-05-07": 380,
-      "2024-03-17": 16
+      "2024-05-07": 380
     }
   },
   {
@@ -90,10 +88,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.75%",
     "time": 577,
-    "timeDay": 521,
-    "timeWeek": 434,
-    "timeMonth": 418,
-    "timeYear": 599,
+    "timeDay": 461,
+    "timeWeek": 444,
+    "timeMonth": 406,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2025-03-14": 65,
       "2025-01-18": 28,
