@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nerdbot.xyz.ico",
     "slug": "nerd-bot",
     "status": "down",
-    "uptime": "80.90%",
-    "uptimeDay": "9.10%",
-    "uptimeWeek": "86.06%",
-    "uptimeMonth": "96.61%",
+    "uptime": "80.80%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "67.08%",
     "time": 270,
     "timeDay": 0,
-    "timeWeek": 140,
-    "timeMonth": 127,
+    "timeWeek": 164,
+    "timeMonth": 126,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-04-23": 205,
+      "2026-04-24": 207,
+      "2026-04-23": 1440,
       "2026-04-22": 1104,
       "2026-04-16": 96,
       "2026-03-29": 81,
@@ -158,8 +159,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -168,18 +168,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nerd-info-bot.nerdbot.xyz.ico",
     "slug": "nerd-info-bot",
     "status": "down",
-    "uptime": "63.41%",
+    "uptime": "63.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "16.94%",
-    "time": 4692,
+    "time": 4710,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 7447,
+    "timeYear": 7423,
     "dailyMinutesDown": {
-      "2026-04-23": 205,
+      "2026-04-24": 207,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -484,8 +485,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   }
 ]
