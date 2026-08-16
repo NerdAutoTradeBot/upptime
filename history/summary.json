@@ -4,17 +4,17 @@
     "url": "https://nerdbot.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/nerdbot.xyz.ico",
     "slug": "nerd-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "82.40%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "85.59%",
     "time": 168,
-    "timeDay": 82,
-    "timeWeek": 113,
-    "timeMonth": 132,
-    "timeYear": 163,
+    "timeDay": 138,
+    "timeWeek": 124,
+    "timeMonth": 134,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2025-09-24": 943,
       "2025-09-23": 1440,
@@ -94,7 +94,7 @@
       "2026-05-16": 68,
       "2026-07-12": 74,
       "2026-07-11": 10,
-      "2026-08-16": 0
+      "2026-08-16": 19
     }
   },
   {
@@ -153,7 +153,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2026-08-16": 1227,
+      "2026-08-16": 1246,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
